@@ -1,5 +1,6 @@
 ## AllowLoadGameType: cata, mists, standard
 ## Interface: 40402, 50504, 120100
+## Version: @project-version@
 ## Category: DBM
 
 ## Title:|cffffe00a<|r|cffff7d0aDBM Mod|r|cffffe00a>|r |cffff6010Raids (Cata)|r
@@ -26,7 +27,6 @@
 ## X-Curse-Project-ID: 43971
 ## X-WoWI-ID: 21469
 ## X-Wago-ID: RBKpErGE
-## Version: @project-version@
 
 localization.en.lua
 localization.de.lua
